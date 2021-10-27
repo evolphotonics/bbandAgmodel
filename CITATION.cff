@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Saranathan"
+  given-names: "Vinodkumar"
+  orcid: "https://orcid.org/0000-0003-4058-5093"
+title: "bbandAgmodel"
+abstract: This repository contains the software implementation for our paper "Antennapedia regulates metallic silver wing scale development and cell shape in Bicyclus anynana butterflies" (Prakash, Finet, Saranathan, Monteiro), biorXiv:10.1101/2021.10.19.464939. This includes the necessary code to theoretically model the broadband (silver) reflectivity of a butterfly wing scale scale with 3-layers (an air layer sandwiched between upper and lower laminae).
+version: 1.0.0
+doi: 10.5281/zenodo.5602247
+date-released: 2021-10-19
+url: "https://github.com/evolphotonics/bbandAgmodel"
+license: MIT
