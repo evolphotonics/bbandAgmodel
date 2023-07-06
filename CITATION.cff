@@ -1,9 +1,17 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
+- family-names: "Prakash"
+  given-names: "Anupama"
+- family-names: "Cédric"
+  given-names: "Finet"
+- family-names: "Bannerjee"
+  given-names: "Tirtha Das"
 - family-names: "Saranathan"
   given-names: "Vinodkumar"
   orcid: "https://orcid.org/0000-0003-4058-5093"
+- family-names: "Monteiro"
+  given-names: "Antónia"
 title: "Antennapedia regulates metallic silver wing scale development and cell shape in Bicyclus anynana butterflies."
 abstract: This repository contains the software implementation for Prakash et al. 2021, Cell Reports. This includes a set of code written in SCM Scheme, awk and shell (Bash) and using FreeSnell (https://people.csail.mit.edu/jaffer/FreeSnell/) to theoretically model the broadband (silver/gold) reflectivity of a bilaminate butterfly wing scale scale with 3-layers (an air layer sandwiched between upper and lower laminae).
 version: 1.0.0
