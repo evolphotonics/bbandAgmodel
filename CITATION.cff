@@ -1,21 +1,36 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this software, please cite our publication as given below."
 authors:
-- family-names: "Prakash"
-  given-names: "Anupama"
-- family-names: "Cédric"
-  given-names: "Finet"
-- family-names: "Bannerjee"
-  given-names: "Tirtha Das"
 - family-names: "Saranathan"
   given-names: "Vinodkumar"
   orcid: "https://orcid.org/0000-0003-4058-5093"
-- family-names: "Monteiro"
-  given-names: "Antónia"
-title: "Antennapedia regulates metallic silver wing scale development and cell shape in Bicyclus anynana butterflies."
+title: "bbandAgmodel"
 abstract: This repository contains the software implementation for Prakash et al. 2021, Cell Reports. This includes a set of code written in SCM Scheme, awk and shell (Bash) and using FreeSnell (https://people.csail.mit.edu/jaffer/FreeSnell/) to theoretically model the broadband (silver/gold) reflectivity of a bilaminate butterfly wing scale scale with 3-layers (an air layer sandwiched between upper and lower laminae).
 version: 1.0.0
-doi: 10.1016/j.celrep.2022.111052
+doi: 10.5281/zenodo.5602247
 date-released: 2021-10-19
-url: "https://dx.doi.org/10.1016/j.celrep.2022.111052"
+url: "https://github.com/evolphotonics/bbandAgmodel"
 license: MIT
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Prakash"
+    given-names: "Anupama"
+  - family-names: "Cédric"
+    given-names: "Finet"
+  - family-names: "Bannerjee"
+    given-names: "Tirtha Das"
+  - family-names: "Saranathan"
+    given-names: "Vinodkumar"
+    orcid: "https://orcid.org/0000-0003-4058-5093"
+  - family-names: "Monteiro"
+    given-names: "Antónia"
+  doi: "10.1016/j.celrep.2022.111052"
+  journal: "Cell reports"
+  month: 7
+  start: 111052
+  end: -
+  title: "Antennapedia regulates metallic silver wing scale development and cell shape in Bicyclus anynana butterflies."
+  issue: 1
+  volume: 40
+  year: 2022
